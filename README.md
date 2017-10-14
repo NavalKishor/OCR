@@ -16,7 +16,7 @@ ___
 + __Training__: (PENDING)
   * _Dataset_:   (DONE)
     1. Search for database that has all ENglish alphabets, numbers, Mathemeatical symbols & that gives freedom in commercial license.
-  * _Architecture_: (DONE)
+  * _Architecture_: (DONE(files in training/ folder))
     1. Thinking of squeezenet.
     2. Overall size of architecture must be less tha 5 MB.
     3. I think this needs transfer learning too.
